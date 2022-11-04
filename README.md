@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nithingoona
 - 👀 I’m interested in Computational Electromagnetics
 - 🌱 I’m currently learning Finite Element Analysis
-- 💞️ I’m looking to collaborate on Improving accuracy of Numerical Computation
+- 💞️ I’m looking to collaborate on Improving accuracy of Numerical Computations
 - 📫 How to reach me - just dm
 
 <!---
